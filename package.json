@@ -1,0 +1,11 @@
+{
+  "name": "danmuji",
+  "version": "1.0.0",
+  "description": "listen to danmus in a specific live room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiqi Mei",
+  "license": "MIT"
+}
