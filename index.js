@@ -12,6 +12,7 @@ onPageWebSocket(({ type, data }) => {
         if (count % 20 === 0) {
             say(`当前人气值：${ data }。。 继续加油哦`);
         }
+        count++;
       break;
     case 'message':
         switch (data.cmd) {
